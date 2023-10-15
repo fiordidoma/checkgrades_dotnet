@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0279269e-7faa-48f2-9eb5-e3a3e385618d/resourceGroups/ServerOfFiordi_group/providers/Microsoft.Web/sites/checkgrades"
+}
