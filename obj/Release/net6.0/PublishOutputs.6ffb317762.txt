@@ -1,0 +1,7 @@
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\checkgrades.exe
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\appsettings.json
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\checkgrades.dll
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\checkgrades.deps.json
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\checkgrades.runtimeconfig.json
+C:\Users\fiord\checkgrades\bin\Release\net6.0\publish\checkgrades.pdb
