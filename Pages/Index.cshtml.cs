@@ -43,4 +43,15 @@ public class IndexModel : PageModel
             };
         }
     }
+    public class DownloadController : Controller
+{
+    public IActionResult DownloadFile()
+    {
+        // Your logic to generate or retrieve the file content
+        byte[] fileBytes = System.Text.Encoding.UTF8.GetBytes("Hello, this is a sample file content.");
+
+        // Return a FileResult
+        return File(fileBytes, "text/plain", "example.txt");
+    }
+}
 }
